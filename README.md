@@ -25,11 +25,11 @@ This project provides **8 themes**, each with **2 different layouts** (`sample_1
 Each theme includes screenshots for both layouts.  
 Below is an example preview. More screenshots are available in the `screenshots/` directory.
 
-### Dragonball – Sample 1
-![dragonball-sample_1](screenshots/dragonball-sample_1.png)
+### CS_HUB – Sample 1
+![cs-hub-sample_1](screenshots/cs-hub-sample_1.png)
 
-### Dragonball – Sample 2
-![dragonball-sample_2](screenshots/dragonball-sample_2.png)
+### CS_HUB – Sample 2
+![cs-hub-sample_2](screenshots/cs-hub-sample_2.png)
 
 ---
 
